@@ -50,6 +50,10 @@ res = nlp(QA_input)
 model = AutoModelForQuestionAnswering.from_pretrained(model_name)
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
+Demo video
+
+https://github.com/culexculex/AI-Chat-Bot/assets/45868768/f708ba67-a212-4952-b7da-839b6c6c9a4e
+
 
 The More You Analyze, More You Get Insights from the Data.
 
