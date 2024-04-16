@@ -20,7 +20,7 @@ streamlit
 
 Installation:
 
-pip install transformer
+```pip install transformer```
 
 pip install python
 
