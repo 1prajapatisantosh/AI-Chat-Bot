@@ -5,6 +5,7 @@ The task is to develop an AI chat bot tailored specifically for assisting users 
 To create an AI Chat Bot based on the provided problem statement with the specified features and FAQ database, you would typically follow these steps. This assumes you have a Python environment set up on your system:
 
 Requirements
+
 Python (3.6 or higher)
 
 pip (Python package installer)
