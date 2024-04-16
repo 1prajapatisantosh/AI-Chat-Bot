@@ -22,11 +22,11 @@ Installation:
 
 ```pip install transformer```
 
-pip install python
+```pip install python```
 
-pip install pandas
+```pip install pandas```
 
-pip install streamlit
+```pip install streamlit```
 
 
 The More You Analyze, More You Get Insights from the Data.
