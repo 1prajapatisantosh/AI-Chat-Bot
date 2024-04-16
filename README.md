@@ -6,10 +6,15 @@ To create an AI Chat Bot based on the provided problem statement with the specif
 
 Requirements
 Python (3.6 or higher)
+
 pip (Python package installer)
+
 Pandas
+
 Transformers
+
 Data set from hugging face
+
 streamlit
 
 Installation:
