@@ -18,7 +18,7 @@ Data set from hugging face
 
 streamlit
 
-Installation guide:
+Installation guide :
 
 ```pip install transformer```
 
