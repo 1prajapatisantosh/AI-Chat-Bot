@@ -3,7 +3,7 @@
 The task is to develop an AI chat bot tailored specifically for assisting users navigating an ed-tech website with the intention to purchase courses using pre trained model for NLP(Natural language processing) from hugging face. The chat bot should efficiently address user queries, provide relevant information about courses, and offer personalized recommendations to enhance user experience and increase course sales.
 
 To create an AI Chat Bot based on the provided problem statement with the specified features and FAQ database, you would typically follow these steps. This assumes you have a Python environment set up on your system:
-
+ 
 Requirements to install:
 
 Python (3.6 or higher)
